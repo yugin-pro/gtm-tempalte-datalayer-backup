@@ -15,5 +15,5 @@
 homepage: "https://sites.google.com/view/yugin-pro/"
 documentation: "https://sites.google.com/view/yugin-pro/articles/gtm-template-datalayer-backup"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 5635c5ed117300d6893b2551b9d72311db683018
     changeNotes: Initial Version

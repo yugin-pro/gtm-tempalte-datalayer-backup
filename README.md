@@ -1,2 +1,3 @@
-# gtm-tempalte-datalayer-backup
-google tag manager template to make snapshots of datalayer object into local storage
+# dataLayer Backup
+When this tag is fired, it writes the stringified value of the window.dataLayer object, which contains current information about any tags that have been fired, to local storage
+
